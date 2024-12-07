@@ -10,4 +10,4 @@
 - **Modelos:** DNN, CNN, Transfer Learning, PyTorch.
 - **Código:**  [proyecto.ipynb](https://github.com/jorge1b3/ai-project-cppe5/blob/main/proyecto.ipynb)
 - **Diapositivas:** [diapositivas.pdf](https://github.com/jorge1b3/ai-project-cppe5/blob/main/diapositivas.pdf)
-- **Video:** 
+- **Video:** [video](https://youtu.be/SVHGq9qmL3U)
